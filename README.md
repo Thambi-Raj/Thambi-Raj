@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mongodb**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java,MySql**
 
 - 📫 How to reach me **thambirajv123@gmail.com**
 
